@@ -1,0 +1,12 @@
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.csproj.AssemblyReference.cache
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.AssemblyInfoInputs.cache
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.AssemblyInfo.cs
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\LibraryMB\LibraryMB\bin\Debug\net6.0\LibraryMB.deps.json
+C:\VisualStudioProject\LibraryMB\LibraryMB\bin\Debug\net6.0\LibraryMB.dll
+C:\VisualStudioProject\LibraryMB\LibraryMB\bin\Debug\net6.0\LibraryMB.pdb
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.dll
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\refint\LibraryMB.dll
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\LibraryMB.pdb
+C:\VisualStudioProject\LibraryMB\LibraryMB\obj\Debug\net6.0\ref\LibraryMB.dll
